@@ -1,1 +1,3 @@
-# simo
+# maven-project
+
+Simple Maven Project
